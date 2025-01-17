@@ -1,0 +1,1 @@
+var json_MasjidATTAQWAMarsawa_17 = {"type":"FeatureCollection","name":"MasjidATTAQWAMarsawa_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Masjid AT TAQWA Marsawa","gambar":"MASJID TAKWA.jpg"},"geometry":{"type":"Point","coordinates":[101.516616838286353,-0.391479024665613]}}]}

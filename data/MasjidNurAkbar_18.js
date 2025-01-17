@@ -1,0 +1,1 @@
+var json_MasjidNurAkbar_18 = {"type":"FeatureCollection","name":"MasjidNurAkbar_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":null,"gambar":"MASJID NUR AKBAR.jpg"},"geometry":{"type":"Point","coordinates":[101.521946484687234,-0.385973075315074]}}]}

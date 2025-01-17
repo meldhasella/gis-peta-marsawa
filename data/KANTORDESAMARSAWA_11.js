@@ -1,0 +1,1 @@
+var json_KANTORDESAMARSAWA_11 = {"type":"FeatureCollection","name":"KANTORDESAMARSAWA_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"SMPN 5 SENTAJO RAYA","Gambar":"Kantor Desa.jpg"},"geometry":{"type":"Point","coordinates":[101.515063766228224,-0.402742123947291]}}]}

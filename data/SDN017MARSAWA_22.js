@@ -1,0 +1,1 @@
+var json_SDN017MARSAWA_22 = {"type":"FeatureCollection","name":"SDN017MARSAWA_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":"SDN 017 MARSAWA","gambar":"SD 017.jpg"},"geometry":{"type":"Point","coordinates":[101.525864704036195,-0.401449496625451]}}]}
